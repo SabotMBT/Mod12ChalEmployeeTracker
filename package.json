@@ -1,0 +1,25 @@
+{
+  "name": "mod12chalemployeetracker",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "EmpMan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabotMBT/Mod12ChalEmployeeTracker.git"
+  },
+  "author": "SabotMBT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabotMBT/Mod12ChalEmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/SabotMBT/Mod12ChalEmployeeTracker#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.1"
+  }
+}
