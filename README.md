@@ -1,8 +1,11 @@
 Changelog:
 
+- Ver 0.5.5
+  -Inqirer ~75% complete.
+
 - Ver 0.5.1
 
-  - Automated creation and seeding of employee_db on application start
+  - Creation and seeding of employee_db on application start
 
 - Ver 0.1.3
 
