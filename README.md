@@ -17,9 +17,15 @@
 
 - Download the repository from https://github.com/SabotMBT/Mod12ChalEmployeeTracker.
 
+![EmpMan1](https://user-images.githubusercontent.com/104104069/173258566-847d1249-96d1-4c26-9372-c20f766b898a.gif)
+
 - Place the file somewhere on your computer (if it is zipped, unzip it.)
 
+![EmpMan2](https://user-images.githubusercontent.com/104104069/173258889-78011ce1-00e6-46da-ba68-b540f9f021ae.gif)
+
 - Launch your favorate command prompt (eg. GitBash) in the unzipped folder, then type 'npm i' without the quotes.
+
+- Update the .env.EXAMPLE with your MySQL env username and password.
 
 ## Usage
 
